@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Welcome to Ninjacloud Technology Pune!!. </h2>
+<h2> Successfully deployed to Tomcat!! </h2>
 </body>
 </html>
